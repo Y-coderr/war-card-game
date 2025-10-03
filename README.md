@@ -1,4 +1,4 @@
-![Screen Recording 2025-10-03 at 10 18 15 AM](https://github.com/user-attachments/assets/2dc824af-fc55-4aff-9375-d04da704d322)# War Card Game 🃏
+# War Card Game 🃏
 
 A simple and fun **iOS card game** based on the classic **War**.  
 Built with Swift and  SwiftUI, this app lets two players battle it out by flipping cards — the higher card wins the round!  
