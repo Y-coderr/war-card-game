@@ -9,7 +9,6 @@ Built with Swift and  SwiftUI, this app lets two players battle it out by flippi
 
 ![Screen Recording 2025-10-03 at 10 18 15 AM](https://github.com/user-attachments/assets/34398fed-832c-413b-85a8-879d4d9c8342)
 
-
 <img width="1470" height="956" alt="Screenshot 2025-10-03 at 10 12 14 AM" src="https://github.com/user-attachments/assets/4aa256e8-97ea-4cff-a99e-1e71def5c568" />
 <img width="1470" height="956" alt="Screenshot 2025-10-03 at 10 12 21 AM" src="https://github.com/user-attachments/assets/25f95f53-06c3-4e51-98f0-0a07a066083c" />
 
